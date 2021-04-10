@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cocoludo
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Python, Djangp
+- 🌱 I’m currently learning Python, Django
 
 <!---
 cocoludo/cocoludo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
